@@ -1,0 +1,1 @@
+API minimalista desenvolvida em ASP.NET Core para gerenciamento de administradores e veículos. O projeto utiliza arquitetura em camadas, DTOs, migrations, autenticação e testes automatizados, proporcionando uma base sólida para aplicações web modernas.
